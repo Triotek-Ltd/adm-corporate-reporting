@@ -1,0 +1,32 @@
+[
+  {
+    "module_code": "adm22_2",
+    "module_label": "ADM 22.2 - Executive Report Approval",
+    "module_title": "Executive Report Approval",
+    "module_slug": "executive_report_approval",
+    "app_code": "adm22",
+    "app_label": "ADM 22 - Corporate Reporting",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm22_1",
+    "module_label": "ADM 22.1 - Report Compilation",
+    "module_title": "Report Compilation",
+    "module_slug": "report_compilation",
+    "app_code": "adm22",
+    "app_label": "ADM 22 - Corporate Reporting",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  },
+  {
+    "module_code": "adm22_3",
+    "module_label": "ADM 22.3 - Report Distribution",
+    "module_title": "Report Distribution",
+    "module_slug": "report_distribution",
+    "app_code": "adm22",
+    "app_label": "ADM 22 - Corporate Reporting",
+    "bundle_code": "adm",
+    "source_md_path": "doc/rnd/plugs/adm/adm1.md"
+  }
+]
